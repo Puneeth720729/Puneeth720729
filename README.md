@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Puneeth720729!
+# 👋 Hi, I’m Puneeth Ram Burugupalli!
 
 I'm a passionate software developer actively seeking SDE (Software Development Engineer) opportunities. I love building scalable web applications, learning new technologies, and challenging myself with problem solving.
 
@@ -11,7 +11,7 @@ I'm a passionate software developer actively seeking SDE (Software Development E
 - Web Development with modern frameworks
 
 ## 🔭 Looking Forward To
-- Exploring System Design concepts
+- Explore System Design concepts
 
 ## 🛠️ Projects
 I'm currently working on several web development projects using my tech stack above. Stay tuned for updates—I’ll share them here as soon as they’re ready!
